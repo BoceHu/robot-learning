@@ -1,0 +1,9 @@
+gym==0.15.4
+pybullet==2.6.6
+shapely>=1.6.0
+setuptools
+opencv-python==4.2.0.32
+matplotlib
+readchar
+scikit-learn
+
